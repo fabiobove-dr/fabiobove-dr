@@ -1,4 +1,4 @@
-# Hi, I'm [Fabio Bove]!
+# Hi, I'm Fabio Bove!
 
 ## About Me
 > TODO: Write here some intresting stuff.
